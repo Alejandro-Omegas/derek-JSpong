@@ -1,6 +1,6 @@
 # Derek-JSpong
 
-Code-along practice with Derek Banas's video [Game Design Tutorial](https://www.youtube.com/watch?v=rex2_9YBKAE). This is a simple pong game against the "AI" programmed with JavaScript.
+Code-along practice with Derek Banas's video [Game Design Tutorial](https://www.youtube.com/watch?v=rex2_9YBKAE). This is a simple pong game against the "AI" in JavaScript.
 
 Changes I made:
 - Reorganized code in functions and regions.
